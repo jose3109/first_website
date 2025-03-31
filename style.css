@@ -91,10 +91,10 @@ p {
 .middle {
     display: flex;
     flex-direction: column;
-    gap: 1em;
+    gap: 2em;
     align-items: center;
+    justify-content: center;
     height: 370px;
-    padding-top: 1em
 }
 
 .bottom-title {
