@@ -22,7 +22,9 @@ body {
 .upper-half {
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
+    padding: 0 18em;
+    
  }
 
  .logo {
@@ -45,8 +47,9 @@ ul {
 .lower-half {
     display: flex;
     align-items: center;
-    justify-content: center;
-    gap: 1em;
+    justify-content: space-between;
+    padding: 0 18em;
+    gap: 2em;
 }
 
 .main-text {
